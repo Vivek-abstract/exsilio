@@ -546,3 +546,16 @@ header.masthead p {
 .bg-orange {
   background: #f05f40;
 }
+
+.cover {
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .cover {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+}
