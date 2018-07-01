@@ -512,6 +512,10 @@ header.masthead p {
   background-color: #eeeeee !important;
 }
 
+.showcase {
+  padding-bottom: 1rem !important;
+}
+
 .showcase .showcase-text {
   padding: 3rem;
 }
@@ -525,6 +529,10 @@ header.masthead p {
   .showcase .showcase-text {
     padding: 7rem;
   }
+}
+
+#services {
+  padding-top: 3rem !important;
 }
 
 .line {
