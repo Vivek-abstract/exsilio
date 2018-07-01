@@ -511,3 +511,30 @@ header.masthead p {
 .bg-light {
   background-color: #eeeeee !important;
 }
+
+.showcase .showcase-text {
+  padding: 3rem;
+}
+
+.showcase .showcase-img {
+  min-height: 15rem;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
+}
+
+.line {
+  margin-bottom: 3rem !important;
+}
+
+.orange {
+  color: #f05f40;
+}
+
+.bg-orange {
+  background: #f05f40;
+}
